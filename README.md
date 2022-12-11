@@ -15,12 +15,12 @@ A AREN é uma plataforma desenvolvida com o intuito de revolucionar o ecossistem
 - Solidity
 - Forge
 - Pinata
-- IPFS
 
 ## Equipe
 
 - Alexandre Fonseca de Souza
 - Guilherme Daher de Aguiar
+- Gustavo Villar Marinatto
 - Mateus Leite Pinheiro Gomes
-- Tiago
-- Gustavo
+- Tiago de Paula Dantas da Silva
+
