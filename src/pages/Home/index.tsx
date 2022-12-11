@@ -16,7 +16,9 @@ const Home: React.FC = () => {
                 <Grid container item xs={4} paddingTop={6}>
                     <HomeCard 
                     icons={<AdbIcon color="black" sx={{fontSize: 240}} />}
-                    ></HomeCard>
+                    >
+                    <Typography>Cessão de Uso</Typography>
+                    </HomeCard>
                 </Grid>
                 <Grid container item xs={4} paddingTop={6}>
                     <HomeCard 
@@ -28,41 +30,18 @@ const Home: React.FC = () => {
                 <Grid container item xs={4} paddingTop={6}>
                     <HomeCard 
                     icons={''}
-                    ></HomeCard>
+                    >
+                    <Typography>Desafio Venda</Typography>
+                    </HomeCard>
                 </Grid>
             </Grid>
             <Grid container item xs={12} paddingTop={6} spacing={4}>
                 <Grid container item xs={4} paddingTop={6}>
                     <HomeCard 
                     icons={''}
-                    ></HomeCard>
-                </Grid>
-                <Grid container item xs={4} paddingTop={6}>
-                    <HomeCard 
-                    icons={''}
-                    ></HomeCard>
-                </Grid>
-                <Grid container item xs={4} paddingTop={6}>
-                    <HomeCard 
-                    icons={''}
-                    ></HomeCard>
-                </Grid>
-            </Grid>
-            <Grid container item xs={12} paddingTop={6} spacing={4}>
-                <Grid container item xs={4} paddingTop={6}>
-                    <HomeCard 
-                    icons={''}
-                    ></HomeCard>
-                </Grid>
-                <Grid container item xs={4} paddingTop={6}>
-                    <HomeCard 
-                    icons={''}
-                    ></HomeCard>
-                </Grid>
-                <Grid container item xs={4} paddingTop={6}>
-                    <HomeCard 
-                    icons={''}
-                    ></HomeCard>
+                    >
+                    Desafio Fundo Investimento Imobiliário
+                    </HomeCard>
                 </Grid>
             </Grid>
         </Grid>
