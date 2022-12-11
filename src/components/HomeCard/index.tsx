@@ -57,9 +57,6 @@ const HomeCard: React.FC<ICardItems> = (props) => {
                 <Paper style={{ width: '100%', height: '700px', borderRadius: '14px', borderStyle: 'solid' }} className={classes.card} onClick={handleOpen}>
                     <Grid container item xs={12} padding={4} justifyContent='center'>
                         {props.icons}
-                        <Typography>
-                            Card-Teste
-                        </Typography>
                     </Grid>
                 </Paper>
         </>

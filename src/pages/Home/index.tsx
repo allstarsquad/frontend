@@ -2,24 +2,25 @@ import { Grid, Paper, Typography } from "@mui/material";
 import React from "react";
 import HomeCard from "../../components/HomeCard";
 import AdbIcon from '@mui/icons-material/Adb';
+import AccountBalanceWalletIcon from '@mui/icons-material/AccountBalanceWallet';
 
 const Home: React.FC = () => {
     return (
         <Grid container item xs={12} padding={4}>
             <Grid container item xs={12} justifyContent='center'>
                 <Typography variant="h3">
-                    Bem-vindo ao portal United Hermé
+                    AREN
                 </Typography>
             </Grid>
             <Grid container item xs={12} paddingTop={6} spacing={4}>
                 <Grid container item xs={4} paddingTop={6}>
                     <HomeCard 
-                    icons={<AdbIcon color="success" fontSize="large" />}
+                    icons={<AdbIcon color="black" sx={{fontSize: 240}} />}
                     ></HomeCard>
                 </Grid>
                 <Grid container item xs={4} paddingTop={6}>
                     <HomeCard 
-                    icons={''}
+                    icons={<AccountBalanceWalletIcon color="black" sx={{fontSize: 240}}/>}
                     ></HomeCard>
                 </Grid>
                 <Grid container item xs={4} paddingTop={6}>
