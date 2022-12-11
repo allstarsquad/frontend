@@ -24,7 +24,11 @@ const style = {
     p: 4,
 };
 
-const HomeCard: React.FC = () => {
+interface ICardItems {
+    icons: any;
+}
+
+const HomeCard: React.FC<ICardItems> = (props) => {
     const [open, setOpen] = React.useState(false);
     const classes = useStyles();
 
@@ -51,7 +55,8 @@ const HomeCard: React.FC = () => {
                         </Box>
                     </Modal>
                 <Paper style={{ width: '100%', height: '700px', borderRadius: '14px', borderStyle: 'solid' }} className={classes.card} onClick={handleOpen}>
-                    <Grid container item xs={12} padding={4}>
+                    <Grid container item xs={12} padding={4} justifyContent='center'>
+                        {props.icons}
                         <Typography>
                             Card-Teste
                         </Typography>
