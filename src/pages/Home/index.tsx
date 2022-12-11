@@ -21,7 +21,9 @@ const Home: React.FC = () => {
                 <Grid container item xs={4} paddingTop={6}>
                     <HomeCard 
                     icons={<AccountBalanceWalletIcon color="black" sx={{fontSize: 240}}/>}
-                    ></HomeCard>
+                    >
+                    <Typography>Gestão de Contratos</Typography>
+                    </HomeCard>
                 </Grid>
                 <Grid container item xs={4} paddingTop={6}>
                     <HomeCard 
