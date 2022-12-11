@@ -24,7 +24,7 @@ const Header: React.FC = () => {
                 sx={{ backgroundColor: '#1C1C1C', boxShadow: 4 }}
             >
                 <Grid container item xs={12}>
-                    <Link href="/"  style={{ textDecoration: 'none' }}>
+                    <Link href="/home"  style={{ textDecoration: 'none' }}>
                         <Typography  className={classes.link} color='white' fontStyle='oblique'>
                             Home 
                         </Typography>

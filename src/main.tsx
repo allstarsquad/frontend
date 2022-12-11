@@ -17,7 +17,7 @@ import UnionProperty from "./pages/UnionProperty/Register";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/home",
     element: <Home />
   },
   {
@@ -31,6 +31,10 @@ const router = createBrowserRouter([
   {
     path: "/union_property",
     element: <UnionProperty />
+  },
+  {
+    path: "/",
+    element: <Metamask />
   },
 ]);
 

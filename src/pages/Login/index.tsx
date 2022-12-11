@@ -1,40 +1,45 @@
-import React, { Component } from 'react';
-
+import React, { Component, useState } from 'react';
 import { ethers } from "ethers";
+import Button from '@mui/material/Button';
+import { Grid } from '@mui/material';
+import { useNavigate } from 'react-router-dom';
 
-class Metamask extends Component {
-    constructor(props: any) {
-        super(props);
+const Metamask: React.FC = () => {
+    const [selectedAddress, setSelectedAddress] = useState('')
 
-        this.state = {
-        };
-    }
+    const history = useNavigate();
 
-    async connectToMetamask() {
+     const connectToMetamask = async() => {
         const provider = new ethers.providers.Web3Provider(window.ethereum)
         const accounts = await provider.send("eth_requestAccounts", []);
-        this.setState({ selectedAddress: accounts[0] })
+        setSelectedAddress(accounts[0])
+        history('/home')
     }
 
-    renderMetamask() {
-        if (!this.state.selectedAddress) {
+    const renderMetamask = () => {
+        if (!selectedAddress) {
             return (
-                <button onClick={() => this.connectToMetamask()}>Connect to Metamask</button>
+                <Grid container item xs={12} padding={4} justifyContent='center'>
+                    <Button
+                        onClick={() => connectToMetamask()}
+                        variant='contained'
+                        color='primary'
+                    >
+                        Logar ao Metamask
+                    </Button>
+                </Grid>
             )
         } else {
             return (
-                <p>Welcome {this.state.selectedAddress}</p>
+                <p>Welcome {selectedAddress}</p>
             );
         }
     }
-
-    render() {
         return (
             <div>
-                {this.renderMetamask()}
+                {renderMetamask()}
             </div>
         )
-    }
 }
 
 export default Metamask;
