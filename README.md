@@ -33,7 +33,7 @@ A AREN é uma plataforma desenvolvida com o intuito de revolucionar o ecossistem
 ## Prototipação
 
 - Tela de cadastro de bens comuns
-<img src="/src/assets/cadastrocomun.jpg" alt="Alt cbc" title="cadastro comum">
+<img src="/src/assets/cadastrocomum.jpg" alt="Alt cbc" title="cadastro comum">
 
 - Tela de cadastro de bens dominicais
 <img src="/src/assets/cadastroDominical.jpg" alt="Alt cbd" title="cadastro dominical">
