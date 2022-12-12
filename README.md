@@ -63,7 +63,7 @@ A AREN é uma plataforma desenvolvida com o intuito de revolucionar o ecossistem
 <img src="/src/assets/mapaVendaDireta.jpg" alt="Alt vd" title="mapa venda direta">
 
 - Tela Home de cidadão
-<img src="/src/assets/userHome.jpg" alt="Alt c" title="home cidadao">
+<img src="/src/assets/newHomeUser.jpg" alt="Alt c" title="home cidadao">
 
 - Tela de venda direta
 <img src="/src/assets/vendaDireta.jpg" alt="Alt tvd" title="venda direta">
