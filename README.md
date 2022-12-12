@@ -9,27 +9,6 @@ A AREN é uma plataforma desenvolvida com o intuito de revolucionar o ecossistem
 
 1- O EthersJs é um framework que funciona entre a Blockchain e o JavaScript. Sendo assim, o mesmo possibilita a leitura de dados existentes na BlockChain, além disso também é responsável por escrever dados na Rede, sendo assim ele consegue enviar e retornar dados, a partir de gatilhos vindos da aplicação Web.
 
-## Ferramentas e Tecnologias 
-
-### Design/Protótipo/FrontEnd
-
-- Figma
-- React
-- Ethers
-
-### BackEnd
-- Solidity
-- Forge
-- Pinata
-
-## Equipe
-
-- Alexandre Fonseca de Souza
-- Guilherme Daher de Aguiar
-- Gustavo Villar Marinatto
-- Mateus Leite Pinheiro Gomes
-- Tiago de Paula Dantas da Silva
-
 ## Prototipação
 
 - Tela de cadastro de bens comuns
@@ -73,3 +52,25 @@ A AREN é uma plataforma desenvolvida com o intuito de revolucionar o ecossistem
 
 - Tela de cadastro de pessoas
 <img height="450px" src="/src/assets/cadastroPessoa.jpg" alt="Alt cp" title="cadastro pessoa">
+
+
+## Ferramentas e Tecnologias 
+
+### Design/Protótipo/FrontEnd
+
+- Figma
+- React
+- Ethers
+
+### BackEnd
+- Solidity
+- Forge
+- Pinata
+
+## Equipe
+
+- Alexandre Fonseca de Souza
+- Guilherme Daher de Aguiar
+- Gustavo Villar Marinatto
+- Mateus Leite Pinheiro Gomes
+- Tiago de Paula Dantas da Silva
