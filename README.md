@@ -35,41 +35,41 @@ A AREN é uma plataforma desenvolvida com o intuito de revolucionar o ecossistem
 - Tela de cadastro de bens comuns
 <img src="/src/assets/cadastroComun.jpg" alt="Alt cbc" title="cadastro comum">
 
--Tela de cadastro de bens dominicais
+- Tela de cadastro de bens dominicais
 <img src="/src/assets/cadastroDominical.jpg" alt="Alt cbd" title="cadastro dominical">
 
--Tela de cadastro de bens especiais
+- Tela de cadastro de bens especiais
 <img src="/src/assets/cadastroEspecial.jpg" alt="Alt cbe" title="cadastro especial">
 
--Tela de Dashboard de bens comuns 
+- Tela de Dashboard de bens comuns 
 <img src="/src/assets/dashboardComum.jpg" alt="Alt dbc" title="dashboard comum">
 
--Tela de Dashboard de bens dominicais
+- Tela de Dashboard de bens dominicais
 <img src="/src/assets/dashboardDominical.jpg" alt="Alt dbd" title="dashboard dominical">
 
--Tela de Dashboard de bens especiais
+- Tela de Dashboard de bens especiais
 <img src="/src/assets/dashboardEspecial.jpg" alt="Alt dbe" title="dashboard especial">
 
--Tela Home Servidor
+- Tela Home Servidor
 <img src="/src/assets/homeAdmin.jpg" alt="Alt hs" title="Home servidor">
 
--Tela de Leilão
+- Tela de Leilão
 <img src="/src/assets/leilao.jpg" alt="Alt l" title="tela leilao">
 
 - Tela de detalhes de Leilão
 <img src="/src/assets/leilaoDetalhes.jpg" alt="Alt dl" title="detalhes leilao">
 
--Tela de mapa de venda Direta
+- Tela de mapa de venda Direta
 <img src="/src/assets/mapaVendaDireta.jpg" alt="Alt vd" title="mapa venda direta">
 
--Tela Home de cidadão
+- Tela Home de cidadão
 <img src="/src/assets/userHome.jpg" alt="Alt c" title="home cidadao">
 
--Tela de venda direta
+- Tela de venda direta
 <img src="/src/assets/vendaDireta.jpg" alt="Alt tvd" title="venda direta">
 
--Tela de detalhes de venda direta
+- Tela de detalhes de venda direta
 <img src="/src/assets/vendaDiretaDetalhes.jpg" alt="Alt dvd" title="detalhes venda direta">
 
--Tela de cadastro de pessoas
+- Tela de cadastro de pessoas
 <img src="/src/assets/cadastroPessoa.jpg" alt="Alt cp" title="cadastro pessoa">
