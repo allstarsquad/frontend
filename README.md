@@ -2,11 +2,12 @@
 <img width="350px" height="350px" src="/src/assets/logo.png" alt="Alt text" title="Logo">
 
 ## Solução
-A AREN é uma plataforma desenvolvida com o intuito de revolucionar o ecossistema de serviços governamentais brasileiros, fugindo de toda a burocratização, dificuldade e insegurança presente nos processos físicos. A partir de uma aplicação Web, tornou-se possível disponibilizar o acesso ao catálogo completo dos serviços de gestão patrimonial, contudo, utilizando a tecnologia a favor da sociedade, trazendo transparência e imutabilidade dos dados, tanto para o Governo quanto para os clientes. Além dessas vantagens, a AREN possui um sistema próprio para os funcionários do Governo, onde é possível acessar parte restrita da plataforma, editar informações e acessar previsões de Machine Learning, por exemplo.
+A AREN é uma plataforma desenvolvida com o intuito de revolucionar o ecossistema de serviços governamentais brasileiros, fugindo de toda a burocratização, dificuldade e insegurança presente nos processos físicos. A partir de uma aplicação Web, tornou-se possível disponibilizar o acesso ao catálogo completo dos serviços de gestão patrimonial, contudo, utilizando a tecnologia a favor da sociedade, trazendo transparência e imutabilidade dos dados, tanto para o Governo quanto para os clientes. Além dessas vantagens, a AREN possui um sistema próprio para os funcionários do Governo, onde é possível acessar parte restrita da plataforma, editar informações. Uma feature adicional da plataforma é uma Inteligência Artificial desenvolvida pela equipe, a mesma estipula o valor da oferta inicial do Leilão, onde a margem de erro é de apenas 20%.
 
 ## Arquitetura da Solução
 <img src="/src/assets/arquitetura.jpg" alt="Alt text" title="Logo">
 
+1- O EthersJs é um framework que funciona entre a Blockchain e o JavaScript. Sendo assim, o mesmo possibilita a leitura de dados existentes na BlockChain, além disso também é responsável por escrever dados na Rede, sendo assim ele consegue enviar e retornar dados, a partir de gatilhos vindos da aplicação Web.
 
 ## Ferramentas e Tecnologias 
 
