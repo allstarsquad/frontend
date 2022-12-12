@@ -9,6 +9,51 @@ A AREN é uma plataforma desenvolvida com o intuito de revolucionar o ecossistem
 
 1- O EthersJs é um framework que funciona entre a Blockchain e o JavaScript. Sendo assim, o mesmo possibilita a leitura de dados existentes na BlockChain, além disso também é responsável por escrever dados na Rede, sendo assim ele consegue enviar e retornar dados, a partir de gatilhos vindos da aplicação Web.
 
+## Prototipação
+
+- Tela de cadastro de bens comuns
+<img height="450px" src="/src/assets/cadastrocomum.jpg" alt="Alt cbc" title="cadastro comum">
+
+- Tela de cadastro de bens dominicais
+<img height="450px" src="/src/assets/cadastroDominical.jpg" alt="Alt cbd" title="cadastro dominical">
+
+- Tela de cadastro de bens especiais
+<img height="450px" src="/src/assets/cadastroEspecial.jpg" alt="Alt cbe" title="cadastro especial">
+
+- Tela de Dashboard de bens comuns 
+<img height="450px" src="/src/assets/dashboardComum.jpg" alt="Alt dbc" title="dashboard comum">
+
+- Tela de Dashboard de bens dominicais
+<img height="450px" src="/src/assets/dashboardDominical.jpg" alt="Alt dbd" title="dashboard dominical">
+
+- Tela de Dashboard de bens especiais
+<img height="450px" src="/src/assets/dashboardEspecial.jpg" alt="Alt dbe" title="dashboard especial">
+
+- Tela Home Servidor
+<img height="450px" src="/src/assets/homeAdmin.jpg" alt="Alt hs" title="Home servidor">
+
+- Tela de Leilão
+<img height="450px" src="/src/assets/leilao.jpg" alt="Alt l" title="tela leilao">
+
+- Tela de detalhes de Leilão
+<img height="450px" src="/src/assets/leilaoDetalhes.jpg" alt="Alt dl" title="detalhes leilao">
+
+- Tela de mapa de venda Direta
+<img height="450px" src="/src/assets/mapaVendaDireta.jpg" alt="Alt vd" title="mapa venda direta">
+
+- Tela Home de cidadão
+<img src="/src/assets/newHomeUser.jpg" alt="Alt c" title="home cidadao">
+
+- Tela de venda direta
+<img height="450px" src="/src/assets/vendaDireta.jpg" alt="Alt tvd" title="venda direta">
+
+- Tela de detalhes de venda direta
+<img height="450px" src="/src/assets/vendaDiretaDetalhes.jpg" alt="Alt dvd" title="detalhes venda direta">
+
+- Tela de cadastro de pessoas
+<img height="450px" src="/src/assets/cadastroPessoa.jpg" alt="Alt cp" title="cadastro pessoa">
+
+
 ## Ferramentas e Tecnologias 
 
 ### Design/Protótipo/FrontEnd
@@ -29,47 +74,3 @@ A AREN é uma plataforma desenvolvida com o intuito de revolucionar o ecossistem
 - Gustavo Villar Marinatto
 - Mateus Leite Pinheiro Gomes
 - Tiago de Paula Dantas da Silva
-
-## Prototipação
-
-- Tela de cadastro de bens comuns
-<img src="/src/assets/cadastrocomum.jpg" alt="Alt cbc" title="cadastro comum">
-
-- Tela de cadastro de bens dominicais
-<img src="/src/assets/cadastroDominical.jpg" alt="Alt cbd" title="cadastro dominical">
-
-- Tela de cadastro de bens especiais
-<img src="/src/assets/cadastroEspecial.jpg" alt="Alt cbe" title="cadastro especial">
-
-- Tela de Dashboard de bens comuns 
-<img src="/src/assets/dashboardComum.jpg" alt="Alt dbc" title="dashboard comum">
-
-- Tela de Dashboard de bens dominicais
-<img src="/src/assets/dashboardDominical.jpg" alt="Alt dbd" title="dashboard dominical">
-
-- Tela de Dashboard de bens especiais
-<img src="/src/assets/dashboardEspecial.jpg" alt="Alt dbe" title="dashboard especial">
-
-- Tela Home Servidor
-<img src="/src/assets/homeAdmin.jpg" alt="Alt hs" title="Home servidor">
-
-- Tela de Leilão
-<img src="/src/assets/leilao.jpg" alt="Alt l" title="tela leilao">
-
-- Tela de detalhes de Leilão
-<img src="/src/assets/leilaoDetalhes.jpg" alt="Alt dl" title="detalhes leilao">
-
-- Tela de mapa de venda Direta
-<img src="/src/assets/mapaVendaDireta.jpg" alt="Alt vd" title="mapa venda direta">
-
-- Tela Home de cidadão
-<img src="/src/assets/newHomeUser.jpg" alt="Alt c" title="home cidadao">
-
-- Tela de venda direta
-<img src="/src/assets/vendaDireta.jpg" alt="Alt tvd" title="venda direta">
-
-- Tela de detalhes de venda direta
-<img src="/src/assets/vendaDiretaDetalhes.jpg" alt="Alt dvd" title="detalhes venda direta">
-
-- Tela de cadastro de pessoas
-<img src="/src/assets/cadastroPessoa.jpg" alt="Alt cp" title="cadastro pessoa">
